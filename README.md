@@ -1,4 +1,4 @@
-# airline
+# Airline
 An airline website for booking flights. 
 
 This project started me on my path towards an interest in web development. Prior to making this, I had no experience in HTML (besides a basic understanding of how it worked), CSS, or JavaScript, let alone how to put it all together to make a functional site. I had a month to learn all of it and build this. In the end it worked as intended, but there's several things to note about this project:
